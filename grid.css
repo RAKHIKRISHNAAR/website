@@ -1,0 +1,173 @@
+.col-md-6{
+    background-color:rgb(53, 5, 98);
+    padding-left: 5px;
+}
+#d2{
+    background-color: rgb(136, 44, 222);
+    color:white;
+    display:flex;
+    flex-wrap: wrap;
+}
+}
+#d3{
+    background-color: rgb(136, 44, 222);
+    color:white;
+    padding-left:5px;}
+input {
+    box-shadow: none ! important;
+    border: none ! important;
+    }
+    textarea{
+        border: none ! important;
+
+    }
+    .modal-footer{
+        text-align: center;
+
+    }
+    #d4{
+        
+    background-color: rgb(136, 44, 222);
+    color:white;
+    padding-left:5px;
+}
+    select{
+        border: none ! important;
+
+    }
+    btn btn-success{
+text-align: center;
+    }
+    h2{
+        color:blueviolet;
+    }
+    h3{
+        color:rgb(173, 133, 209);
+    }
+    p{
+color:dark;
+padding-left: 5px;
+text-align: justify;
+    }
+    #d6{
+        height:200px;
+        width:100%;
+    }
+    .row1{
+        padding:5px;
+    }
+    .row1{
+        width:100%
+    }
+    #d6{
+        height:300px;
+    }
+    .c1{
+        text-align: center;
+       font-size: 5vw;;
+        color:rgb(103, 39, 163);
+    }
+    .c2{
+        text-align: center;
+        color:rgb(146, 93, 196);
+    }
+  span{
+    text-align: center;
+    font-size: xx-large;
+
+  }
+  #d7{
+    color:rgb(107, 10, 204);
+    text-align: center;
+  }
+  #d8{
+
+    color:rgb(141, 84, 194);
+  }
+  .s1{
+    text-align: center;
+
+  }
+  #d9{
+    img:100px;
+  }
+  #d10{
+    color:rgb(34, 3, 63);
+    font-size: xx-large;
+  }
+  .col-6{
+    
+    color:rgb(34, 3, 63);
+    font-size: xx-large;
+    
+    display:flex;
+    flex-wrap: wrap;
+    
+  }
+  h5{
+    color:rgb(72, 14, 126);
+  }
+  .p2{
+    text-align: justify;
+  }
+.col-6:hover{
+    box-shadow: 100cm;
+}
+.p3{
+    color:rgb(45, 9, 80);
+}
+.b2{
+    text-align: center;
+}
+#d11{
+    height:600px;
+    width:50%;
+}
+.row container-xl{
+    transform: scale(2);
+    box-shadow: 10cm;
+}
+.cj row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+
+}
+.im2{
+height:100px;
+
+}
+#b11{
+background-color: blueviolet;
+text-align: center;
+}
+.row container-xl{
+    display:flex;
+    flex-wrap: wrap;
+}
+h6{
+    display:flex;
+    flex-wrap: wrap;
+}
+#d10{
+    display:flex;
+    flex-wrap: wrap;
+}
+.p6{
+    
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.pl{
+    color:blue;
+}
+.p2{
+    color: blue;
+}
+@media(max-width:200px;)
+#d2{
+    rounded-2;
+}
